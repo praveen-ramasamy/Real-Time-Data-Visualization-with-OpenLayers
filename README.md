@@ -9,7 +9,7 @@ This project demonstrates how to use **OpenLayers** to create a dynamic map that
 - Adds real-time data points dynamically on the map.
 - Custom red circular markers for visualization.
 
-![Map Example](assets/map-example.png)
+![Map Example](map-example.png)
 
 ## Technologies Used
 - **OpenLayers**: A powerful JavaScript library for map rendering.
